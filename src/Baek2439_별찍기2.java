@@ -16,6 +16,9 @@ public class Baek2439_º°Âï±â2 {
 			System.out.println();
 		}
 		
+	}public Baek2439_º°Âï±â2() {
+		// TODO Auto-generated constructor stub
 	}
-
+	
+	
 }
