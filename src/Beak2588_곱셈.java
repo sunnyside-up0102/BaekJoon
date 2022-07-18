@@ -11,6 +11,7 @@ public class Beak2588_°ö¼À {
 		System.out.println( A * ((B%100)/10));
 		System.out.println(A * (B/100));
 		System.out.println(A * B);
+		
 	}
 
 }
