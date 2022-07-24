@@ -2,8 +2,7 @@
 public class Baek2292_¹úÁý {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
 	}
 
 }
